@@ -9,3 +9,6 @@
 21:10
 
 Kirill Moiseev
+
+git pull - скачиваем
+git push - отправляем
